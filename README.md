@@ -322,7 +322,7 @@ git push origin feature/새로운-기능
 
 ## 📄 라이선스
 
-이 프로젝트는 [MIT License](LICENSE)를 따릅니다.
+이 프로젝트는 개인 프로젝트 입니다.
 
 ---
 
@@ -334,9 +334,9 @@ git push origin feature/새로운-기능
 
 | 역할 | 담당자 | 연락처 |
 |------|--------|--------|
-| 🎨 Frontend | [@your-username](https://github.com/your-username) | your-email@example.com |
-| 🔧 Backend | [@backend-dev](https://github.com/backend-dev) | backend@example.com |
-| 🎨 UI/UX | [@designer](https://github.com/designer) | design@example.com |
+| 🎨 Frontend | [@YeongBee](https://github.com/YeongBee) | cyeongbb@gmail.com |
+| 🔧 Backend | [@YeongBee](https://github.com/YeongBee) | cyeongbb@gmail.com |
+| 🎨 UI/UX | [@YeongBee](https://github.com/YeongBee) | cyeongbb@gmail.com |
 
 </div>
 
